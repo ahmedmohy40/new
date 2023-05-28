@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788490919546",
+    "project_id": "ahmed-store-21b4c",
+    "storage_bucket": "ahmed-store-21b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788490919546:android:05d522702fd1f4bdd5a5c3",
+        "android_client_info": {
+          "package_name": "com.ahmedmohy.courseflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788490919546-ug80cfrpojtckllst4sbke5cofhh6g4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSRlAm9P-XqP_YvzHt_usR8P7PBOlEFi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788490919546-ug80cfrpojtckllst4sbke5cofhh6g4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
